@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "MPA",
+		"year": 2026,
+		"image": "blob:https://www.jr.ac.cn/6fa5a44d-99cf-41c5-83de-6a238b906594",
+		"url": "https://www.jr.ac.cn/projects",
+		"description": "ing",
+		"tags": [
+			"公共管理案例大赛"
+		]
+	}
+]
