@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "231231",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "213123"
+		"title": "大家笑一笑就好",
+		"description": "公共管理",
+		"username": "P"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -24,10 +24,6 @@
 	],
 	"artImages": [
 		{
-			"id": "cat",
-			"url": "/images/art/cat.png"
-		},
-		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
@@ -40,29 +36,7 @@
 		}
 	],
 	"currentBackgroundImageId": "",
-	"socialButtons": [
-		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
-			"order": 1
-		}
-	],
+	"socialButtons": [],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
