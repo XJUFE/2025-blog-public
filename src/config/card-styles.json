@@ -58,27 +58,27 @@
 		"enabled": false
 	},
 	"articleCard": {
-		"width": 266,
-		"height": 160,
+		"width": 624,
+		"height": 929,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -332,
+		"offsetY": -572,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 1094,
+		"offsetY": 630,
 		"enabled": true
 	},
 	"navCard": {
-		"width": 280,
-		"height": 434,
+		"width": 361,
+		"height": 422,
 		"order": 2,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -1189,
+		"offsetY": -577,
 		"enabled": true
 	},
 	"likePosition": {
