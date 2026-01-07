@@ -22,24 +22,15 @@
 		"#FE9750",
 		"#FCC841"
 	],
-	"artImages": [
-		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
-		}
-	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"artImages": [],
+	"currentArtImageId": "",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
-		},
-		{
-			"id": "url-1767641407371",
-			"url": "https://vip33221.oss-cn-chengdu.aliyuncs.com/BGOFF.jpg"
 		}
 	],
-	"currentBackgroundImageId": "url-1767641407371",
+	"currentBackgroundImageId": "",
 	"socialButtons": [],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
