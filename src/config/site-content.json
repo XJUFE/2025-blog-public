@@ -9,7 +9,7 @@
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
-		"colorBg": "#0d132d",
+		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
 		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
@@ -22,24 +22,19 @@
 		"#FE9750",
 		"#FCC841"
 	],
-	"artImages": [
-		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
-		}
-	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"artImages": [],
+	"currentArtImageId": "",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
 		},
 		{
-			"id": "url-1767641407371",
-			"url": "https://vip33221.oss-cn-chengdu.aliyuncs.com/BGOFF.jpg"
+			"id": "1af1201abecf39ac",
+			"url": "/images/background/1af1201abecf39ac.png"
 		}
 	],
-	"currentBackgroundImageId": "url-1767641407371",
+	"currentBackgroundImageId": "1af1201abecf39ac",
 	"socialButtons": [],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
