@@ -23,13 +23,9 @@
 		{
 			"id": "",
 			"url": ""
-		},
-		{
-			"id": "1af1201abecf39ac",
-			"url": "/images/background/1af1201abecf39ac.png"
 		}
 	],
-	"currentBackgroundImageId": "1af1201abecf39ac",
+	"currentBackgroundImageId": "",
 	"socialButtons": [],
 	"clockShowSeconds": false,
 	"summaryInContent": false,
