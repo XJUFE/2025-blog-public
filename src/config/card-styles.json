@@ -98,11 +98,11 @@
 		"enabled": false
 	},
 	"beianCard": {
-		"width": 200,
-		"height": 60,
+		"width": 390,
+		"height": 65,
 		"order": 11,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -208,
+		"offsetY": 266,
 		"enabled": true
 	}
 }
