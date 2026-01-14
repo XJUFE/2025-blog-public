@@ -13,7 +13,7 @@
 		"order": 1,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": false
+		"enabled": true
 	},
 	"clockCard": {
 		"width": 232,
@@ -47,7 +47,7 @@
 		"order": 6,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": false
+		"enabled": true
 	},
 	"shareCard": {
 		"width": 361,
@@ -55,7 +55,7 @@
 		"order": 7,
 		"offsetX": 816,
 		"offsetY": -574,
-		"enabled": false
+		"enabled": true
 	},
 	"articleCard": {
 		"width": 357,
