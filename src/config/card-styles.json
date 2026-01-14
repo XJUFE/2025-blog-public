@@ -8,11 +8,11 @@
 		"enabled": false
 	},
 	"hiCard": {
-		"width": 360,
-		"height": 288,
+		"width": 300,
+		"height": 292,
 		"order": 1,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -636,
+		"offsetY": -230,
 		"enabled": true
 	},
 	"clockCard": {
@@ -50,11 +50,11 @@
 		"enabled": true
 	},
 	"shareCard": {
-		"width": 361,
-		"height": 437,
+		"width": 310,
+		"height": 302,
 		"order": 7,
-		"offsetX": 816,
-		"offsetY": -574,
+		"offsetX": 322,
+		"offsetY": -256,
 		"enabled": true
 	},
 	"articleCard": {
